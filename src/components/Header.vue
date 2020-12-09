@@ -10,12 +10,12 @@
       mode="horizontal"
       text-color="#333"
       active-text-color="#005bc2" router>
-      <el-menu-item index="/">首页</el-menu-item>
-      <el-menu-item index="/page/develop">开发</el-menu-item>
-      <el-menu-item index="/page/service">服务</el-menu-item>
+      <el-menu-item index="/">网站首页</el-menu-item>
+      <el-menu-item index="/page/about">关于我们</el-menu-item>
+      <el-menu-item index="/page/service">服务项目</el-menu-item>
       <el-menu-item index="/page/production">生产实力</el-menu-item>
-      <el-menu-item index="/page/about">关于</el-menu-item>
-      <el-menu-item index="/page/contact">联系</el-menu-item>
+      <el-menu-item index="/page/develop">人才招聘</el-menu-item>
+      <el-menu-item index="/page/contact">联系我们</el-menu-item>
     </el-menu>
 
   </div>
