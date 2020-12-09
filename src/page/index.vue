@@ -209,8 +209,75 @@
     </div>
     <div class="part5">
       <div class="tit1">新闻动态</div>
-      <div class="cot">
+      <div class="cot"> 
+          <div class="list">
+              <div class="img">
+                  <img src="../assets/img/index/news1.jpg" />
+              </div>
+              <div class="news">
+               <p class="news-tit">提高员工消防意识，定期进行消防演练</p>
+              <p class="news-time">2020-08-13</p>
+              <div class="news-text">
+                为了更好地树立消防安全意识，及时消除各类
+                火灾隐患，落实“安全发展、预防为主”的既
+                定方针，提高公司员工的自护、自救和互救的
+                能力，通过消防演练使每位参与者能学会灭火
+                器的使用方法。提高自我安全意识，化解风险。
+              </div>               
+              </div>
 
+          </div>
+          <div class="list">
+              <div class="img">
+                  <img src="../assets/img/index/news2.jpg" />
+              </div>
+              <div class="news">
+                <p class="news-tit">江苏省应急管理厅党组书记等莅临指导</p>
+              <p class="news-time">2020-11-18</p>
+              <div class="news-text">
+                江苏省应急管理厅党组书记、厅长陈忠伟等一
+                行莅临江苏庆亚电子科技有限公司展位指导工
+                作，对我们庆亚公司的高速雾灯警报系统产品
+                给予了肯定，并嘱咐我们再接再厉为道路安全
+                贡献力量。
+              </div>              
+              </div>
+
+          </div>
+          <div class="list">
+              <div class="img">
+                  <img src="../assets/img/index/news3.jpg" />
+              </div>
+              <div class="news">
+              <p class="news-tit">热烈祝贺研发中心搬迁工作顺利完成！</p>
+              <p class="news-time">2020-11-26</p>
+              <div class="news-text">
+                经过2个月的紧张施工建设， 新的研发中心办
+                公室终于装修完毕，江苏庆亚电子科技有限公
+                司研发中心将以此次搬迁为新一个起点，进一
+                步为您提供更优质的产品方案，与您共同发展，
+                感谢广大客户一直以来对庆亚公司的支持！
+              </div>                
+              </div>
+
+          </div>  
+          <div class="list">
+              <div class="img">
+                  <img src="../assets/img/index/news4.jpg" />
+              </div>
+              <div class="news">
+                <p class="news-tit">庆亚电子公司申请高新技术企业通过了 ！</p>
+                <p class="news-time">2020-11-30</p>
+                <div class="news-text">
+                  庆亚公司顺利通过国家“高新技术企业”认定，
+                  并获得《高新技术企业证书》。高新技术企业的
+                  认证标志着庆亚公司自主研发创新能力、科研成
+                  果转化能力、自主研发生产的技术服务产品得到了
+                  国家科技部门认可。
+                </div>               
+              </div>
+
+          </div>                             
       </div>
     </div>
     <div class="home">
@@ -436,8 +503,6 @@ export default {
   }
 }
 
-
-
 .part4 {
   position: relative;
   .cot {
@@ -465,7 +530,37 @@ export default {
   .cot {
     width: 100%;
     margin: 20px auto 0;
-
+    .list{
+     width: 300px;
+      height: 400px;
+     display: inline-block;
+    overflow: hidden;
+    .news{
+      padding: 0 18px;
+      box-sizing: border-box;
+    }
+      .img{
+        	width: 280px;
+           height: 210px;
+           margin: 0 auto;
+      }
+      .news-tit{
+        	font-size: 14px;
+          color: #544f4f;
+        padding: 10px 0 0;
+        box-sizing: border-box;
+      }
+      .news-time,.news-text{
+        	font-size: 12px;
+          color: #8e8e8e;
+          text-align: left;
+          line-height: 20px;
+      }
+      .news-time{
+        padding: 10px 0;
+        box-sizing: border-box;
+      }
+    }
   }
 }
 </style>
