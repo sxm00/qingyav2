@@ -3,18 +3,7 @@
     <div class="home">
       <Header></Header>
     </div>
-    <div class="banner">
-      <swiper :options="swiperOption" ref="mySwiper">
-        <swiper-slide class="slides">
-          <router-link to="/page/about">
-            <img src="../assets/img/index/bg1.png" style="cursor:pointer;" />
-          </router-link>
-        </swiper-slide>
-        <swiper-slide class="slides">
-          <img src="../assets/img/index/bg2.png" />
-        </swiper-slide>
-      </swiper>
-    </div>
+    <div class="banner"></div>
     <div class="part1">
       <div class="classify wow fadeInDown" data-wow-delay="0.5s">
         <div class="item">
@@ -236,52 +225,26 @@
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 
-import { swiper, swiperSlide } from "vue-awesome-swiper";
 
 export default {
   name: "index",
   components: {
     Header,
     Footer,
-    swiper,
-    swiperSlide
   },
 
   data() {
     return {
-      swiperOption: {
-        // 参数选项,显示小点
-        //循环
-        loop: true,
-        //每张播放时长3秒，自动播放
-        autoplay: true,
-        //滑动速度
-        speed: 300
-        // delay:1000
-      }
+
     };
   }
 };
 </script>
 <style lang="scss" scoped>
 .banner {
-  overflow: hidden;
   width: 100%;
-  height: 600px;
-  background: #ccc;
-
-  .swiper-item {
-    width: 100%;
-  }
-
-  .swiper-img {
-    width: 100%;
-  }
-
-  .swiper-container {
-    width: 100%;
-    height: 600px;
-  }
+  height: 620px;
+  background: url("../assets/img/index/bg.jpg") no-repeat center;
 }
 
 .part2,
