@@ -82,39 +82,39 @@
             <img src="../assets/img/index/pro1.jpg" />
           </div>
         </div>
-        <div class="list wow flipInY">
+        <div class="list">
           <div class="img">
             <img src="../assets/img/index/pro2.jpg" />
           </div>
         </div>
-        <div class="list wow flipInY">
+        <div class="list">
           <div class="img">
             <img src="../assets/img/index/pro3.jpg" />
           </div>
         </div>
-        <div class="list wow flipInY">
+        <div class="list">
           <div class="img">
             <img src="../assets/img/index/pro4.jpg" />
           </div>
         </div>
       </div>
       <div class="cot">
-        <div class="list wow flipInY">
+        <div class="list ">
           <div class="img">
             <img src="../assets/img/index/pro5.jpg" />
           </div>
         </div>
-        <div class="list wow flipInY">
+        <div class="list">
           <div class="img">
             <img src="../assets/img/index/pro6.jpg" />
           </div>
         </div>
-        <div class="list wow flipInY">
+        <div class="list">
           <div class="img">
             <img src="../assets/img/index/pro7.jpg" />
           </div>
         </div>
-        <div class="list wow flipInY">
+        <div class="list">
           <div class="img">
             <img src="../assets/img/index/pro8.jpg" />
           </div>
@@ -529,9 +529,9 @@ export default {
   position: relative;
   .cot {
     width: 100%;
-    margin: 20px auto 0;
+    margin: 20px auto 40px;
     .list{
-     width: 300px;
+     width: 296px;
       height: 400px;
      display: inline-block;
     overflow: hidden;

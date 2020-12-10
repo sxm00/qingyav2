@@ -16,5 +16,6 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+   min-width: 1200px!important;
 }
 </style>
