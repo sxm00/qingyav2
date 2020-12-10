@@ -4,7 +4,12 @@
       <Header></Header>
     </div>
     <div class="banner"></div>
-    
+    <div class="part">
+      <div class="tit1">关于我们</div>
+      <div class="sports">
+        
+      </div>
+    </div>
     <div class="home">
       <Footer></Footer>
     </div>
@@ -38,6 +43,29 @@
   height: 620px;
   background: url("../assets/img/service/serbg.jpg") no-repeat center;
   }
+.part{
+  .tit1 {
+    width: 270px;
+    font-size: 36px;
+    letter-spacing: 5px;
+    color: nth($colour, 1);
+    padding: 36px 0 28px 0;
+    box-sizing: border-box;
+    position: relative;
+    margin: 0 auto;
 
+    &:after {
+      display: block;
+      width: 85px;
+      height: 2px;
+      background: nth($colour, 6);
+      content: "";
+      position: absolute;
+      left: 34%;
+      top: 105px;
+    }
+  }
+
+}
 </style>
 
