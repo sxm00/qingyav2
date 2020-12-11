@@ -165,7 +165,7 @@
   .banner{
     width: 100%;
     height: 501px;
-    background: url("../assets/img/production/conus.png") no-repeat center;
+    // background: url("../assets/img/production/conus.png") no-repeat center;
     .cot{
       @include w12;
       overflow: hidden;

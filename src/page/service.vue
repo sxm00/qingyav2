@@ -5,9 +5,12 @@
     </div>
     <div class="banner"></div>
     <div class="part">
-      <div class="tit1">关于我们</div>
+      <div class="tit1">服务项目</div>
       <div class="sports">
-        
+        <div class="list">
+           <!-- <img src="../assets/img/service/hj1.jpg" /> -->
+           <p>市场分析</p>
+        </div>
       </div>
     </div>
     <div class="home">

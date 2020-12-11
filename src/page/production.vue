@@ -5,79 +5,124 @@
     </div>
     <div class="banner"> </div>
     <div class="pr-inner">
+      <div class="tit1">生产实景</div>
       <el-tabs type="border-card" v-model="activeName">
         <el-tab-pane class="nas"  name="first">
-          <span slot="label">生产设备</span>
+          <span slot="label">SMT车间实景</span>
           <div class="sc-cot">
             <div class="list" >
             <div class="img">
-              <img src="../assets/img/production/she1.png"/>
+              <img src="../assets/img/production/SMT-1.jpg"/>
             </div>
-            <p>GKG-G9全自动印刷机 </p>
+            <p>SMT恒温无尘车间一角 </p>
           </div>
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/she2.png"/>
+                <img src="../assets/img/production/SMT-2.jpg"/>
               </div>
-              <p>劲拓10温区无铅回流焊 </p>
+              <p>SMT恒温无尘车间一角 </p>
             </div>
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/she3.png"/>
+                <img src="../assets/img/production/SMT-3.jpg"/>
               </div>
-              <p>松下W2全自动贴片机 </p>
+              <p>SMT恒温无尘车间一角 </p>
             </div>
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/she4.png"/>
+                <img src="../assets/img/production/SMT-4.jpg"/>
               </div>
-              <p>Ax8200微焦点X-RAY透视检测设备 </p>
+              <p>SMT恒温无尘车间一角 </p>
+            </div>
+             <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/SMT-5.jpg"/>
+              </div>
+              <p>SMT恒温无尘车间一角 </p>
+            </div>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/SMT-6.jpg"/>
+              </div>
+              <p>SMT恒温无尘车间一角 </p>
+            </div>
+             <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/SMT-7.jpg"/>
+              </div>
+              <p>SMT恒温无尘车间一角 </p>
+            </div>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/SMT-8.jpg"/>
+              </div>
+              <p>SMT恒温无尘车间一角 </p>
+            </div>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/SMT-9.jpg"/>
+              </div>
+              <p>SMT恒温无尘车间一角 </p>
             </div>
           </div>
         </el-tab-pane>
         <el-tab-pane >
-          <span slot="label">生产环境</span>
+          <span slot="label">DIP车间实景</span>
           <div class="sc-cot">
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/huan1.png"/>
+                <img src="../assets/img/production/DIP-1.jpg"/>
               </div>
-              <p>DIP无尘操作车间 </p>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/huan2.png"/>
+                <img src="../assets/img/production/DIP-2.jpg"/>
               </div>
-              <p>SMT无尘操作车间 </p>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/huan3.png"/>
+                <img src="../assets/img/production/DIP-3.jpg"/>
               </div>
-              <p>入门除尘设备 </p>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
             <div class="list" >
               <div class="img">
-                <img src="../assets/img/production/huan4.png"/>
+                <img src="../assets/img/production/DIP-4.jpg"/>
               </div>
-              <p>SMT无尘操作车间 </p>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
-          </div>
-        </el-tab-pane>
-        <el-tab-pane >
-          <span slot="label">生产规模</span>
-          <div class="hj-cot">
-            <div class="text">
-              4000平方米新厂房交付投入使用，计划完成原有车间乔迁及升级改造；计划新增智能开关制造车间、无刷电机制造车间；
-              计划增添国内最先进的模组机贴装生产线。力争打造成淮海经济区代工行业的“富士康”，实现公司与客户间共赢;
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/DIP-5.jpg"/>
+              </div>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
-            <div class="img">
-              <img src="../assets/img/production/gbbg.png"/>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/DIP-6.jpg"/>
+              </div>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
-            <div class="txt">
-              <p>真心服务 诚挚待人 质量保证</p>
-              <p>Sincere service welcome Quality assurance</p>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/DIP-7.jpg"/>
+              </div>
+              <p>DIP恒温无尘车间一角 </p>
             </div>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/DIP-8.jpg"/>
+              </div>
+              <p>DIP恒温无尘车间一角 </p>
+            </div>
+            <div class="list" >
+              <div class="img">
+                <img src="../assets/img/production/DIP-9.jpg"/>
+              </div>
+              <p>DIP恒温无尘车间一角 </p>
+            </div>                                   
           </div>
         </el-tab-pane>
       </el-tabs>
@@ -110,48 +155,38 @@
 
 <style lang="scss" scoped>
 .container{
-  background: #f5f5f5;
+  background: #ffffff;
   .banner{
      width: 100%;
-     height: 501px;
-     background: url("../assets/img/production/scbg.png") no-repeat center;
+     height: 620px;
+     background: url("../assets/img/production/serbg.jpg") no-repeat center;
      position: relative;
      z-index: 1;
    }
   .pr-inner{
     @include w12;
-    .hj-cot{
-      padding: 80px 20px 40px 20px;
-      box-sizing: border-box;
-      .text{
-        font-size: 20px;
-        line-height: 36px;
-        letter-spacing: 1px;
-        color: #333333;
-        text-align: left;
-        padding: 0 50px;
-        box-sizing: border-box;
-      }
-      .img{
-        margin: 50px auto;
-      }
-      .txt{
-        line-height: 59px;
-        letter-spacing: 2px;
-        color: nth($colour,1);
-        font-weight: bold;
-        :first-child{
-          font-size: 25px;
-        }
-        :nth-child(2){
-          font-size: 21px;
-        }
-      }
+  .tit1 {
+    width: 270px;
+    font-size: 36px;
+    letter-spacing: 5px;
+    color: nth($colour, 1);
+    padding: 36px 0 28px 0;
+    box-sizing: border-box;
+    position: relative;
+    margin: 0 auto 40px;
+
+    &:after {
+      display: block;
+      width: 85px;
+      height: 2px;
+      background: nth($colour, 6);
+      content: "";
+      position: absolute;
+      left: 34%;
+      top: 105px;
     }
   }
-
-
-
+  }
 
 }
 
@@ -175,65 +210,47 @@
         padding: 30px 0;
         box-sizing: border-box;
         .list{
-          width: 568px;
-          background-color: #ffffff;
-          border:1px solid #f5f5f5;
+          width: 396px;
+          // background-color: #ffffff;
           overflow: hidden;
-          cursor: pointer;
           float: left;
-          margin-left: 20px;
-          margin-bottom: 20px;
-          &:hover{
-            /*border:1px solid #0064cd;*/
-          }
           .img{
-            width: 568px;
-            height: 407px;
-            transition: all 0.3s;
-            &:hover{
-              transform: scale(1.05);
-            }
+            width: 378px;
+            height: 260px;
           }
           p{
-            font-size: 18px;
+            font-size: 16px;
             font-weight: bold;
             letter-spacing: 1px;
-            color: #333333;
+            color: #544f4f;
             line-height: 80px;
           }
         }
       }
     }
+    .el-tabs--border-card>.el-tabs__header{
+      background: #fff!important;
+    }
+    .el-tabs__nav{
+      left: 230px!important;
+    }
     .el-tabs__item{
-      width: 400px!important;
+      width: 370px!important;
       text-align: center;
-      /*border: solid 1px #ced1e5!important;*/
-      background: #fff;
-      height: 100px;
-      line-height: 100px;
+      background: #e0e0e0;
+      height: 70px;
+      line-height: 70px;
       box-sizing: border-box;
-      color: #030303!important;
-      margin: 0!important;
+      color: #544f4f!important;
+      margin: 0 auto!important;
       float: left!important;
-      font-size: 30px;
+      font-size: 16px;
       .nas{
-        i{
-          margin-right: 5px!important;
-        }
-      }
-      &:first-child{
-        margin: 0!important;
-        border-right: none!important;
-      }
-      &:nth-child(2){
-        border-right: none!important;
-      }
-      &:nth-child(3){
-        border-right: none!important;
+
       }
     }
     .is-active{
-      background-color: $theme-colour!important;
+      background-color: #1f5ba3!important;
       color: #fff!important;
     }
   }
