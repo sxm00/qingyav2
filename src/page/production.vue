@@ -159,7 +159,7 @@
   .banner{
      width: 100%;
      height: 620px;
-     background: url("../assets/img/production/serbg.jpg") no-repeat center;
+     background: url("../assets/img/production/scbg.jpg") no-repeat center;
      position: relative;
      z-index: 1;
    }
