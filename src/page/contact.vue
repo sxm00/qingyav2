@@ -3,59 +3,27 @@
     <div class="home">
       <Header></Header>
     </div>
-    <div class="banner">
-      <div class="cot">
-        <div class="box">
-          <ul class="star">
-            <li class="wow fadeInRight">
-              <i class="iconfont">&#xe70b;</i>
-            </li>
-            <li>
-              <i class="iconfont">&#xe70b;</i>
-            </li>
-            <li>
-              <i class="iconfont">&#xe70b;</i>
-            </li>
-            <li>
-              <i class="iconfont">&#xe70b;</i>
-            </li>
-            <li class="wow fadeInLeft">
-              <i class="iconfont">&#xe70b;</i>
-            </li>
-          </ul>
-          <div class="text wow fadeInLeft">
-            以<span>质</span>取胜  以<span>诚</span>相待
-          </div>
-          <p class="txt1">TO FINE BUSINESSES HONEST QUALITY</p>
-        </div>
-
-      </div>
-    </div>
+    <div class="banner"> </div>
     <div class="part1">
       <div class="tit1">联系我们</div>
-      <div class="tit2">CONTACT US</div>
       <div class="cot">
         <div class="boxs">
-          <div class="item w-3">
-            <div class="tops"><i class="iconfont">&#xe651;</i></div>
-             <p class="p1">地址Address</p>
-             <p class="p2">徐州高新技术产业开发区第二工业园</p>
-             <p class="p2">银山东麓漓江路南侧C6-1-103</p>
+          <div class="item w-1">
+            <p>江苏庆亚电子科技有限公司</p>
+            <div class="text">
+              主营业务：电子电路板开发、抄板、SMT、DIP、PCB板焊接加工、
+电子产品OEM代工、电子变压器生产制造、 成品线束旗形端子加
+工制造等。
+            </div>
+          </div>
+          <div class="item w-2">
+            <p>公司地址：江苏省徐州市铜山高新技术开发区中国安全谷#C6栋</p>
+            <p>公司邮箱：785069855@qq.com</p>
+            <p>联系电话：19952121879</p>
+            <p>公司传真：0516-66625558</p>
           </div>
           <div class="item">
-            <div class="tops"><i class="iconfont">&#xe68d;</i></div>
-            <p class="p1">电话Phone</p>
-            <p class="p3">19952121879</p>
-          </div>
-          <div class="item">
-            <div class="tops"><i class="iconfont">&#xe658;</i></div>
-            <p class="p1">网址Website</p>
-            <p class="p3">https://qingyakeji.com</p>
-          </div>
-          <div class="item">
-            <div class="tops"><i class="iconfont">&#xe600;</i></div>
-            <p class="p1">邮箱Mail</p>
-            <p class="p3">785069855@qq.com</p>
+            <img src="../assets/img/about/erms.png"/>
           </div>
         </div>
         <div class="amap-wrapper">
@@ -79,10 +47,6 @@
             >
             </el-amap-circle>
           </el-amap>
-        </div>
-        <div class="txt">
-          <p>真心服务 诚挚待人 质量保证</p>
-          <p>Sincere service welcome Quality assurance</p>
         </div>
       </div>
     </div>
@@ -121,15 +85,15 @@
                         pName: 'ToolBar',//工具条插件
                         position:'LB',
                     },
-                    // {
-                    //     pName: 'MapType',//卫星与地图切换
-                    //     defaultType: 0,
-                    //     showTraffic:true,//实时交通图层
-                    // },
-                    // {
-                    //     pName:'OverView',
-                    //     //isOpen:true//鹰眼是否打开
-                    // },
+                    {
+                        pName: 'MapType',//卫星与地图切换
+                        defaultType: 0,
+                        showTraffic:true,//实时交通图层
+                    },
+                    {
+                        pName:'OverView',
+                        //isOpen:true//鹰眼是否打开
+                    },
                     {
                         pName:'Scale'
                     }
@@ -164,53 +128,8 @@
 <style lang="scss" scoped>
   .banner{
     width: 100%;
-    height: 501px;
-    // background: url("../assets/img/production/conus.png") no-repeat center;
-    .cot{
-      @include w12;
-      overflow: hidden;
-      .box{
-        float: right;
-        margin: 160px 0 0 0;
-        padding: 0 5px 0 0;
-        box-sizing: border-box;
-        .star{
-          overflow: hidden;
-          padding: 0 0 17px 140px;
-          box-sizing: border-box;
-          li{
-            float: left;
-            margin: 0 20px 0 0;
-            i{
-              color: nth($colour, 5);
-              font-size: 26px;
-            }
-          }
-        }
-        .text{
-          clear: both;
-          width: 498px;
-          height: 106px;
-          font-size: 52px;
-          line-height: 106px;
-          letter-spacing: 2px;
-          color: nth($colour, 5);
-          border-bottom: 1px dashed nth($colour, 5);
-          border-top: 1px dashed nth($colour, 5);
-          span{
-            color: #ff9900;
-          }
-        }
-        .txt1{
-          font-size: 20px;
-          color: nth($colour, 5);
-          padding: 20px 0 0 0;
-          box-sizing: border-box;
-        }
-      }
-
-
-    }
+    height: 620px;
+    background: url("../assets/img/about/cont.jpg") no-repeat center;
   }
   .part1{
     .tit1{
@@ -244,75 +163,52 @@
         top: 128px;
       }
     }
-    .tit2{
-      font-size: 18px;
-      font-weight: bold;
-      letter-spacing: 1px;
-      color: #333333;
-      padding: 0 0 20px 0;
-      box-sizing: border-box;
-    }
+
     .cot{
       @include w12;
+      overflow: hidden;
+      margin: 50px auto 100px;
       .boxs{
+        @include w12;
+        margin-bottom: 80px;
         overflow: hidden;
         position: relative;
-        padding: 30px 0 50px 0;
+        border: solid 2px #e0e0e0;
+        padding: 28px 0 28px 53px;
         box-sizing: border-box;
         .item{
-          width: 23%;
           float: left;
-          &.w-3{
-            width: 30%;
-          }
-          .tops{
-            width: 60px;
-            height: 60px;
-            background: nth($colour,1);
-            border-radius: 50%;
-            margin: 0 auto;
-            i{
-              font-size: 36px;
-              line-height: 60px;
-              color: #ffffff;
+          font-size: 16px;
+	        color: #544f4f;  
+          text-align: left;   
+          line-height: 26px;       
+          &.w-1{
+            width: 457px;    
+            padding: 0 10px;
+            box-sizing: border-box;     
+            border-right: 2px solid #e0e0e0; 
+            p{
+              font-size: 20px;
+              font-weight: bold;
+              line-height: 46px;
             }
           }
-          p{
-            font-size: 21px;
-            color: #333333;
+          &.w-2{
+            width: 477px;   
+            padding: 13px 10px 0;
+            box-sizing: border-box;     
+            border-right: 2px solid #e0e0e0;   
+            line-height: 26px;          
           }
-          .p1{
-            line-height: 59px;
-            letter-spacing: 2px;
-            color: nth($colour,1);
-            font-weight: bold;
-          }
-          .p2{
-            line-height: 40px;
-          }
-          .p3{
-            padding-top: 27px;
-            box-sizing: border-box;
+          img{
+            margin: 0 0 0 40px;
           }
         }
       }
       .amap-wrapper{
         height: 400px;
       }
-      .txt{
-        line-height: 45px;
-        letter-spacing: 2px;
-        color:nth($colour,1);
-        font-weight: bold;
-        padding: 40px 0;
-        box-sizing: border-box;
-        :first-child{
-          font-size: 25px;
-        }
-        :nth-child(2){
-          font-size: 21px;
-        }
-      }
+
     }
   }
 
