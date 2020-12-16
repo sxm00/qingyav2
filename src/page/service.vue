@@ -137,39 +137,13 @@
                 <div class="img">
                   <img src="../assets/img/service/jiegou/jg2.jpg" />
                   <div class="tit">
-                    <p>血氧仪</p>
+                    <p>电源</p>
                   </div>
                 </div>
             </div>
             <div class="item">
                 <div class="img">
                   <img src="../assets/img/service/jiegou/jg3.jpg" />
-                  <div class="tit">
-                    <p>血压器</p>
-                  </div>
-                </div>
-            </div>                        
-          </div>
-          <div class="line">
-            <div class="item">
-                <div class="img">
-                  <img src="../assets/img/service/jiegou/jg4.jpg" />
-                  <div class="tit">
-                    <p>超声探头</p>
-                  </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="img">
-                  <img src="../assets/img/service/jiegou/jg5.jpg" />
-                  <div class="tit">
-                    <p>白癜风治疗仪</p>
-                  </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="img">
-                  <img src="../assets/img/service/jiegou/jg6.jpg" />
                   <div class="tit">
                     <p>语音呼叫器</p>
                   </div>
@@ -179,9 +153,35 @@
           <div class="line">
             <div class="item">
                 <div class="img">
+                  <img src="../assets/img/service/jiegou/jg4.jpg" />
+                  <div class="tit">
+                    <p>白癜风治疗仪</p>
+                  </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="img">
+                  <img src="../assets/img/service/jiegou/jg5.jpg" />
+                  <div class="tit">
+                    <p>雾灯警报器</p>
+                  </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="img">
+                  <img src="../assets/img/service/jiegou/jg6.jpg" />
+                  <div class="tit">
+                    <p>额温枪</p>
+                  </div>
+                </div>
+            </div>                        
+          </div>
+          <div class="line">
+            <div class="item">
+                <div class="img">
                   <img src="../assets/img/service/jiegou/jg7.jpg" />
                   <div class="tit">
-                    <p>语音呼叫设备</p>
+                    <p>血氧仪</p>
                   </div>
                 </div>
             </div>
@@ -189,7 +189,7 @@
                 <div class="img">
                   <img src="../assets/img/service/jiegou/jg8.jpg" />
                   <div class="tit">
-                    <p>消防单兵设备</p>
+                    <p>前列腺治疗仪</p>
                   </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@
                 <div class="img">
                   <img src="../assets/img/service/jiegou/jg9.jpg" />
                   <div class="tit">
-                    <p>定时电蚊香</p>
+                    <p>滚动系统</p>
                   </div>
                 </div>
             </div>                        
@@ -209,7 +209,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry1.jpg" />
                   <div class="tit">
-                    <p>智能杀菌空气净化机</p>
+                    <p>PCB板2D图</p>
                   </div>
                 </div>
             </div>
@@ -217,7 +217,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry2.jpg" />
                   <div class="tit">
-                    <p>血氧仪</p>
+                    <p>PCB板原理图</p>
                   </div>
                 </div>
             </div>
@@ -225,7 +225,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry3.jpg" />
                   <div class="tit">
-                    <p>血压器</p>
+                    <p>PCB板3D图</p>
                   </div>
                 </div>
             </div>                        
@@ -235,7 +235,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry4.jpg" />
                   <div class="tit">
-                    <p>超声探头</p>
+                    <p>PCB板3D图</p>
                   </div>
                 </div>
             </div>
@@ -243,7 +243,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry5.jpg" />
                   <div class="tit">
-                    <p>白癜风治疗仪</p>
+                    <p>PCB板3D图</p>
                   </div>
                 </div>
             </div>
@@ -251,7 +251,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry6.jpg" />
                   <div class="tit">
-                    <p>语音呼叫器</p>
+                    <p>PCB板2D图</p>
                   </div>
                 </div>
             </div>                        
@@ -261,7 +261,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry7.jpg" />
                   <div class="tit">
-                    <p>语音呼叫设备</p>
+                    <p>PCB板3D图</p>
                   </div>
                 </div>
             </div>
@@ -269,7 +269,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry8.jpg" />
                   <div class="tit">
-                    <p>消防单兵设备</p>
+                    <p>PCB板原理图</p>
                   </div>
                 </div>
             </div>
@@ -277,7 +277,7 @@
                 <div class="img">
                   <img src="../assets/img/service/ruanjian/ry9.jpg" />
                   <div class="tit">
-                    <p>定时电蚊香</p>
+                    <p>PCB板2D图</p>
                   </div>
                 </div>
             </div>                        
