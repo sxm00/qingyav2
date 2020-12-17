@@ -289,7 +289,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn1.jpg" />
                   <div class="tit">
-                    <p>智能杀菌空气净化机</p>
+                    <p>智能杀菌空气净化机APP界面</p>
                   </div>
                 </div>
             </div>
@@ -297,7 +297,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn2.jpg" />
                   <div class="tit">
-                    <p>血氧仪</p>
+                    <p>智能家居APP界面</p>
                   </div>
                 </div>
             </div>
@@ -305,7 +305,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn3.jpg" />
                   <div class="tit">
-                    <p>血压器</p>
+                    <p>智能杀菌空气净化机显示界面</p>
                   </div>
                 </div>
             </div>                        
@@ -315,7 +315,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn4.jpg" />
                   <div class="tit">
-                    <p>超声探头</p>
+                    <p>网页设计</p>
                   </div>
                 </div>
             </div>
@@ -323,7 +323,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn5.jpg" />
                   <div class="tit">
-                    <p>白癜风治疗仪</p>
+                    <p>淘宝详情页</p>
                   </div>
                 </div>
             </div>
@@ -331,7 +331,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn6.jpg" />
                   <div class="tit">
-                    <p>语音呼叫器</p>
+                    <p>淘宝详情页</p>
                   </div>
                 </div>
             </div>                        
@@ -341,7 +341,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn7.jpg" />
                   <div class="tit">
-                    <p>语音呼叫设备</p>
+                    <p>小夜灯包装设计</p>
                   </div>
                 </div>
             </div>
@@ -349,7 +349,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn8.jpg" />
                   <div class="tit">
-                    <p>消防单兵设备</p>
+                    <p>血氧仪包装设计</p>
                   </div>
                 </div>
             </div>
@@ -357,7 +357,7 @@
                 <div class="img">
                   <img src="../assets/img/service/zhineng/zn9.jpg" />
                   <div class="tit">
-                    <p>定时电蚊香</p>
+                    <p>额温枪包装设计</p>
                   </div>
                 </div>
             </div>                        
