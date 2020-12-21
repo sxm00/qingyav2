@@ -202,14 +202,14 @@
         padding: 30px 0;
         box-sizing: border-box;
         .list{
-          width: 260px;
+          width: 264px;
           height: 300px;
           border: solid 2px #e0e0e0;
           overflow: hidden;
           float: left;
           padding: 38px 10px 0 18px;
     box-sizing: border-box;
-    margin-left: 53px;
+    margin-left: 47px;
     &:first-child{
       margin-left: 0!important;
     }

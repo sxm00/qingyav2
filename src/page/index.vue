@@ -67,9 +67,11 @@
               秉承“客户至上、锐意进取”的经营理念，坚持“质量第一” 的原则为广大客户提供
               优质的服务并赢得了大家一致的好评与认可...
             </div>
+            <router-link to='/page/about' target="_blank">
             <div class="btn">
               READ MORE
             </div>
+            </router-link> 
           </div>
         </div>
       </div>
@@ -266,7 +268,7 @@
                   <img src="../assets/img/index/news4.jpg" />
               </div>
               <div class="news">
-                <p class="news-tit">庆亚电子公司申请高新技术企业通过了 ！</p>
+                <p class="news-tit">庆亚电子公司申请高新技术企业通过了</p>
                 <p class="news-time">2020-11-30</p>
                 <div class="news-text">
                   庆亚公司顺利通过国家“高新技术企业”认定，

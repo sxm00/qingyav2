@@ -34,7 +34,7 @@
            <p>智能APP</p>
         </div>
         </div>
-        <router-link to='/page/production'>
+        <router-link to='/page/production' target="_blank">
         <div class="list">
            <img src="../assets/img/service/icion/zz.png" />
            <!-- <img src="../assets/img/service/icion/r-zz.png" /> -->
